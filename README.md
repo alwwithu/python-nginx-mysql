@@ -1,1 +1,3 @@
-python nginx mysql
+python 8 
+nginx 
+mysql 8
